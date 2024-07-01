@@ -684,3 +684,21 @@ body {
     height:auto;
     opacity:0.5
     }
+
+
+.mova{
+    position:absolute;
+    width:70px;
+    height:auto;
+    top:42px;
+    padding: 8px 19px;
+    left:1210px;
+    }
+
+
+
+
+.mova:hover {
+    background-color: #0099e6;
+
+}
