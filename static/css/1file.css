@@ -664,6 +664,7 @@ body {
     top:1200px;
     left:60px;
     font-family:lucida sans console;
+
     }
 
 
@@ -718,7 +719,7 @@ body {
 }
 
 .dropdown .item img {
-    width: 70px !important; /* Установим желаемую ширину с помощью !important */
+    width: 65px !important; /* Установим желаемую ширину с помощью !important */
     height: auto;
 }
 
@@ -747,3 +748,38 @@ body {
 .dropdown-content a:hover {
     background-color: #f1f1f1;
 }
+
+
+.inform{
+    position:absolute;
+    font-size:45px;
+    font-family:lucida sans console;
+    top:140px;
+    left:85px;
+    }
+
+.profilee{
+    position:absolute;
+    font-size:28px;
+    font-family:lucida sans console;
+    top:320px;
+    left:85px;
+    }
+
+.pr0-nas{
+    position:absolute;
+    font-family:lucida sans console;
+    font-size:19px;
+    top:390px;
+    left:85px;
+    }
+
+
+.p2{
+    position:absolute;
+    font-family:lucida sans console;
+    font-size:19px;
+    top:415px;
+    left:85px;
+    }
+
