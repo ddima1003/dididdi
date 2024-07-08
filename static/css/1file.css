@@ -906,3 +906,22 @@ body {
     background-color:#669999;
     opacity:0;
     }
+
+
+.line123{
+    position:absolute;
+    width:1172.5px;
+    height:70px;
+    top:118px;
+    left:347px;
+    background-color:#2eb82e;
+    }
+
+.aktiya{
+    position:absolute;
+    width:230px;
+    height:auto;
+    top:-30px;
+    left:500px;
+    color:red;
+    }
