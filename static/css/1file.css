@@ -99,6 +99,7 @@
     }
 
 
+
 .lineleft{
     position:absolute;
     top:550px;
@@ -435,7 +436,7 @@ content: '';
 
 .otvet1{
     position:absolute;
-    font-family:Playfair Display;
+    font-family:"PT Sans", Calibri, Tahoma, sans-serif;
     font-size:50px;
     top:400px;
     left:420px;
@@ -446,7 +447,7 @@ content: '';
 
 .otvet2{
     position:absolute;
-    font-family:Playfair Display;
+    font-family:"PT Sans", Calibri, Tahoma, sans-serif;
     top:470px;
     left:405px;
     font-size:50px;
@@ -461,7 +462,7 @@ content: '';
 .domik{
     position:absolute;
     top:42px;
-    right:0px;
+    right:295px;
     height:9%;
     padding: 7px 19px;
     width:auto;
@@ -753,33 +754,155 @@ body {
 .inform{
     position:absolute;
     font-size:45px;
-    font-family:lucida sans console;
+    font-family:"PT Sans", Calibri, Tahoma, sans-serif;
     top:140px;
-    left:85px;
+    left:300px;
     }
 
 .profilee{
     position:absolute;
     font-size:28px;
-    font-family:lucida sans console;
+    font-family:"PT Sans", Calibri, Tahoma, sans-serif;
     top:320px;
-    left:85px;
+    left:300px;
     }
 
 .pr0-nas{
     position:absolute;
-    font-family:lucida sans console;
-    font-size:19px;
+    font-family:"PT Sans", Calibri, Tahoma, sans-serif;
+    font-size:20px;
     top:390px;
-    left:85px;
+    left:300px;
     }
 
 
 .p2{
     position:absolute;
-    font-family:lucida sans console;
-    font-size:19px;
+    font-family:"PT Sans", Calibri, Tahoma, sans-serif;
+    font-size:20px;
     top:415px;
-    left:85px;
+    left:300px;
     }
 
+.vce-vcim{
+    position:absolute;
+    font-family:"PT Sans", Calibri, Tahoma, sans-serif;;
+    font-size:28px;
+    top:525px;
+    left:300px;
+    }
+
+.vse-text{
+    position:absolute;
+    font-family:"PT Sans", Calibri, Tahoma, sans-serif;
+    font-size:20px;
+    top:600px;
+    left:300px;
+    }
+
+.vse-text2{
+    position:absolute;
+    font-family:"PT Sans", Calibri, Tahoma, sans-serif;
+    font-size:20px;
+    top:630px;
+    left:300px;
+    }
+
+
+.analitika{
+    position:absolute;
+    font-family:"PT Sans", Calibri, Tahoma, sans-serif;
+    font-size:28px;
+    top:745px;
+    left:300px;
+    }
+
+.ml32{
+    position:absolute;
+    font-family:lucida sans console;
+    font-size:45px;
+    top:900px;
+    left:300px;
+    color:#0066ff;
+    }
+
+.tovari{
+    position:absolute;
+    font-family: Hack, monospace;
+    font-size:18px;
+    top:980px;
+    left:300px;
+    color:#b3b3cc;
+    }
+
+.pr76{
+    position:absolute;
+    font-family:lucida sans console;
+    font-size:45px;
+    top:1000px;
+    left:300px;
+    color:#0066ff;
+    }
+
+.pokupti{
+    position:absolute;
+    font-family: Hack, monospace;
+    font-size:18px;
+    top:1080px;
+    left:300px;
+    color:#b3b3cc;
+    }
+
+.ml681{
+    position:absolute;
+    font-family:lucida sans console;
+    font-size:45px;
+    top:900px;
+    left:800px;
+    color:#0066ff;
+    }
+
+.rik24{
+    position:absolute;
+    font-family: Hack, monospace;
+    font-size:18px;
+    top:980px;
+    left:800px;
+    color:#b3b3cc;
+    }
+
+.ml21{
+    position:absolute;
+    font-family:lucida sans console;
+    font-size:45px;
+    top:1000px;
+    left:800px;
+    color:#0066ff;
+    }
+
+.den{
+    position:absolute;
+    font-family: Hack, monospace;
+    font-size:18px;
+    top:1080px;
+    left:800px;
+    color:#b3b3cc;
+    }
+
+.analitika-text{
+    position:absolute;
+    font-family:"PT Sans", Calibri, Tahoma, sans-serif;
+    font-size:20px;
+    top:820px;
+    left:300px;
+    }
+
+.linetovar1{
+    position:absolute;
+    top:118px;
+    left:346px;
+    height:1100px;
+    width:2px;
+    background-color:#669999;
+    opacity:0;
+    }
