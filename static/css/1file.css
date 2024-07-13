@@ -342,7 +342,7 @@ background: linear-gradient(90deg, rgba(129,230,217,1) 0%, rgba(79,209,197,1) 10
   transition: all 0.3s ease-in-out 0s;
   cursor: pointer;
   outline: none;
-  position: relative;
+  position:relative;
   padding: 10px;
   top:400px;
   left:20px;
@@ -965,8 +965,8 @@ body {
         }
 
         .slider {
-            max-width: 600px;
-            position: relative;
+            max-width: 900px;
+            position: absolute;
             margin: 70px auto 0;
             overflow: hidden;
         }
@@ -1586,19 +1586,314 @@ body {
     font-size:16px;
     font-family:monospace, sans-serif;
     font-weight:500;
-    top:250px;
+    top:235px;
     left:1160px;
     text-decoration:none;
     color:#008080;
+
     }
 
 .dos-1:hover{
+    position:fixed;
     background-color:green;
-    opacity:0.05
+    opacity:0.05;
+    padding: 5px, 20px;
+    top:235px;
+    left:1150px;
+    width:300px;
+    border-radius:5px;
+
     }
 
 
 
 p{
    line-height:0.4;
+    }
+
+
+
+
+
+.linetovar3{
+    position:absolute;
+    top:118px;
+    left:346px;
+    height:1700px;
+    width:2px;
+    opacity:0.05;
+    }
+
+.d-title1{
+    position:absolute;
+    font-size:38px;
+    top:200px;
+    left:200px;
+    font-family:"Comic  Sans MS", monospace;
+    font-weight:500;
+
+    }
+
+.pid-d-title{
+    position:absolute;
+    font-size:33px;
+    top:300px;
+    left:200px;
+    font-family:"Comic  Sans MS", monospace;
+    font-weight:550;
+    }
+
+.dostavka-text1{
+    position:absolute;
+    font-size:17px;
+    top:390px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+
+.dostavka-text2{
+    position:absolute;
+    font-size:17px;
+    top:420px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+
+.dostavka-text3{
+    position:absolute;
+    font-size:17px;
+    top:450px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+
+
+.hr200{
+    position:absolute;
+    font-size:17px;
+    top:500px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+
+.star{
+    position:absolute;
+    font-size:17px;
+    top:560px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+
+.star1{
+    position:absolute;
+    font-size:17px;
+    top:590px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+
+.star2{
+    position:absolute;
+    font-size:17px;
+    top:660px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+
+.star3{
+    position:absolute;
+    font-size:17px;
+    top:710px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+
+.star5{
+    position:absolute;
+    font-size:17px;
+    top:760px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+.star6{
+    position:absolute;
+    font-size:17px;
+    top:810px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:700;
+    }
+
+
+.ent-star{
+    position:absolute;
+    font-size:17px;
+    top:940px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+
+.ent-star1{
+    position:absolute;
+    font-size:17px;
+    top:970px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+
+.ent-star2{
+    position:absolute;
+    font-size:17px;
+    top:1000px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+
+.ent-star3{
+    position:absolute;
+    font-size:17px;
+    top:1060px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+.ent-star4{
+    position:absolute;
+    font-size:17px;
+    top:1090px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+
+.dos-3-posta{
+    position:absolute;
+    font-size:33px;
+    top:1140px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:550;
+    }
+
+.dos-3-ymova{
+    position:absolute;
+    font-size:25px;
+    top:1220px;
+    left:150px;
+    font-family:monospace, sans-serif;
+    font-weight:550;
+    }
+
+.dos-3-ymova-tx1{
+    position:absolute;
+    font-size:17px;
+    top:1300px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+.dos-3-ymova-tx2{
+    position:absolute;
+    font-size:17px;
+    top:1340px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+.dos-3-ymova-tx22{
+    position:absolute;
+    font-size:17px;
+    top:1370px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+.dos-3-ymova-tx3{
+    position:absolute;
+    font-size:17px;
+    top:1420px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+.dos-3-ymova-tx33{
+    position:absolute;
+    font-size:17px;
+    top:1450px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+.dos-3-ymova-tx4{
+    position:absolute;
+    font-size:17px;
+    top:1500px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+.dos-3-ymova-tx5{
+    position:absolute;
+    font-size:17px;
+    top:1540px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+.dos-3-ymova-tx6{
+    position:absolute;
+    font-size:17px;
+    top:1580px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+.dos-3-ymova-tx66{
+    position:absolute;
+    font-size:17px;
+    top:1610px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:500;
+    }
+.dos-3-ymova-tx77{
+    position:absolute;
+    font-size:17px;
+    top:1650px;
+    left:200px;
+    font-family:monospace, sans-serif;
+    font-weight:550;
+    }
+
+
+.tech6{
+    position:absolute;
+    top:1785px;
+    left:40%;
+    font-size:13px;
+    color:grey;
+    font-family:Times New Roman;
+    opacity:0.8;
+    }
+
+.line7{
+    position:absolute;
+    width:1519px;
+    height:0.5px;
+    top:1775px;
+    left:0px;
+    background-color:#669999;
+    opacity:0.2;
     }
