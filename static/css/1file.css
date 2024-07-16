@@ -1484,6 +1484,7 @@ body {
     left: 1151px;
     text-decoration: none;
     color:black;
+    background-size:50px 20px;
 }
 
 .dos-1:hover {
@@ -1500,10 +1501,13 @@ body {
     left: 1151px;
     text-decoration: none;
     color:black;
+
 }
 
 .dos-2:hover {
     background-color: #b3ffe0;
+    width:300px;
+    height:30px;
     }
 
 .dos-3 {
@@ -1519,6 +1523,10 @@ body {
 
 .dos-3:hover {
     background-color: #b3ffe0;
+    width:300px;
+    height:30px;
+    left:1130px;
+    top:380px;
     }
 
 .dos-4 {
@@ -1534,7 +1542,8 @@ body {
 
 .dos-4:hover {
     background-color: #b3ffe0;
-
+    width:300px;
+    height:60px;
     }
 
 .dos-5 {
@@ -1550,6 +1559,8 @@ body {
 
 .dos-5:hover {
     background-color: #b3ffe0;
+    width:300px;
+    height:60px;
     }
 p{
    line-height:0.4;
@@ -1846,17 +1857,17 @@ p{
     position:absolute;
     font-size:25px;
     font-weight:550;
-    top:550px;
-    left:400px;
+    top:900px;
+    left:450px;
     font-family: "PT Sans", Calibri, Tahoma, sans-serif;
     }
 
 .line-tovar-more-down{
     position:absolute;
-    top:1000px;
-    left:700px;
-    height:px;
-    width:400px;
+    top:1300px;
+    left:470px;
+    height:1px;
+    width:1000px;
     background-color:#669999;
     opacity:0.2;
     }
@@ -1864,54 +1875,126 @@ p{
 .line-tovar-more-left1{
     position:absolute;
     top:1000px;
-    left:400px;
-    height:1px;
-    width:1070px;
+    left:670px;
+    height:300px;
+    width:1px;
     background-color:#669999;
     opacity:0.2;
     }
 .line-tovar-more-left2{
     position:absolute;
     top:1000px;
-    left:400px;
-    height:1px;
-    width:1070px;
+    left:870px;
+    height:300px;
+    width:1px;
     background-color:#669999;
     opacity:0.2;
     }
 .line-tovar-more-left3{
     position:absolute;
     top:1000px;
-    left:400px;
-    height:1px;
-    width:1070px;
+    left:1070px;
+    height:300px;
+    width:1px;
     background-color:#669999;
     opacity:0.2;
     }
 .line-tovar-more-left4{
     position:absolute;
     top:1000px;
-    left:400px;
-    height:1px;
-    width:1070px;
+    left:1270px;
+    height:300px;
+    width:1px;
     background-color:#669999;
     opacity:0.2;
     }
 .line-tovar-more-left5{
     position:absolute;
     top:1000px;
-    left:400px;
-    height:1px;
-    width:1070px;
+    left:1470px;
+    height:300px;
+    width:1px;
     background-color:#669999;
     opacity:0.2;
     }
-.line-tovar-more-left6{
+
+
+
+
+.add{
     position:absolute;
-    top:1000px;
-    left:400px;
-    height:1px;
-    width:1070px;
-    background-color:#669999;
-    opacity:0.2;
+    top:188px;
+    left:347.5px;
+    width:1172px;
+    height:583px;
+
+    }
+
+.headpones-black{
+    position:absolute;
+    width:150px;
+    height:auto;
+    top:1040px;
+    left:470px;
+    }
+
+.head-bl{
+    position:absolute;
+    font-size:15px;
+    font-weight:550;
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+    top:1200px;
+    left:460px;
+    text-decoration:none
+    color:black;
+    }
+
+.head-bl:hover {
+    color:#e68a00;
+    text-decoration:underline;
+    transition:0.5s;
+    }
+
+
+.UAH875{
+    position:absolute;
+    font-size:25px;
+    font-weight:500;
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+    top:1250px;
+    left:460px;
+    }
+
+.harri{
+    position:absolute;
+    width:120px;
+    height:auto;
+    top:1040px;
+    left:720px;
+    }
+
+.harri-tx{
+    position:absolute;
+    font-size:15px;
+    font-weight:550;
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+    top:1200px;
+    left:680px;
+    text-decoration:none
+    color:black;
+    }
+
+.harri-tx:hover {
+    color:#e68a00;
+    text-decoration:underline;
+    transition:0.5s;
+    }
+
+.UAH480{
+    position:absolute;
+    font-size:25px;
+    font-weight:500;
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+    top:1250px;
+    left:680px;
     }
