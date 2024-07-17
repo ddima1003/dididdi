@@ -335,14 +335,14 @@ html, body {
   font-weight: 700;
   color: #313133;
   background: #4FD1C5;
-background: linear-gradient(90deg, rgba(129,230,217,1) 0%, rgba(79,209,197,1) 100%);
+  background: linear-gradient(90deg, rgba(129,230,217,1) 0%, rgba(79,209,197,1) 100%);
   border: none;
   border-radius: 1000px;
   box-shadow: 12px 12px 24px rgba(79,209,197,.64);
   transition: all 0.3s ease-in-out 0s;
   cursor: pointer;
   outline: none;
-  position:relative;
+  position:absolute;
   padding: 10px;
   top:400px;
   left:20px;
@@ -518,13 +518,13 @@ body {
 .shine-button {
   text-decoration: none;
   display: inline-block;
-  top:-1331px;
+  top:59px;
   left:1010px;
   padding: 10px 30px;
   width:60px;
   height:20px;
   border-radius: 2px;
-  position: relative;
+  position: absolute;
   overflow: hidden;
   border: 2px solid #8cff66 ;
 
@@ -1934,7 +1934,7 @@ p{
     position:absolute;
     width:150px;
     height:auto;
-    top:1040px;
+    top:1010px;
     left:470px;
     }
 
@@ -1943,10 +1943,11 @@ p{
     font-size:15px;
     font-weight:550;
     font-family: "PT Sans", Calibri, Tahoma, sans-serif;
-    top:1200px;
+    top:1160px;
     left:460px;
-    text-decoration:none
+    text-decoration:none;
     color:black;
+    line-height:0;
     }
 
 .head-bl:hover {
@@ -1961,15 +1962,28 @@ p{
     font-size:25px;
     font-weight:500;
     font-family: "PT Sans", Calibri, Tahoma, sans-serif;
-    top:1250px;
+    top:1230px;
     left:460px;
+    color:red;
+    }
+.fir-disc{
+    position:absolute;
+    font-size:17px;
+    font-weight:500px;
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+    color:grey;
+    opacity:0.5;
+    top:1220px;
+    left:460px;
+    text-decoration:line-through;
+    line-width:;
     }
 
 .harri{
     position:absolute;
-    width:120px;
+    width:110px;
     height:auto;
-    top:1040px;
+    top:1000px;
     left:720px;
     }
 
@@ -1978,10 +1992,11 @@ p{
     font-size:15px;
     font-weight:550;
     font-family: "PT Sans", Calibri, Tahoma, sans-serif;
-    top:1200px;
+    top:1160px;
     left:680px;
-    text-decoration:none
+    text-decoration:none;
     color:black;
+    line-height:0;
     }
 
 .harri-tx:hover {
@@ -1995,6 +2010,42 @@ p{
     font-size:25px;
     font-weight:500;
     font-family: "PT Sans", Calibri, Tahoma, sans-serif;
-    top:1250px;
+    top:1200px;
     left:680px;
     }
+
+.antifog-pic{
+    position:absolute;
+    top:1000px;
+    left:900px;
+    width:160px;
+    height:auto;
+    }
+.antifog{
+    position:absolute;
+    top:1160px;
+    left:900px;
+    font-size:15px;
+    font-weight:550;
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+    line-height:0;
+    color:black;
+    }
+
+.antifog:hover {
+    color:#e68a00;
+    text-decoration:underline;
+    transition:0.5s;
+    }
+
+.fog529{
+    position:absolute;
+    top:1200px;
+    left:900px;
+    font-size:25px;
+    font-weight:500;
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+
+    }
+
+
