@@ -989,7 +989,7 @@ body {
     position:absolute;
     font-size:17px;
     font-family:"PT Sans", Calibri, Tahoma, sans-serif;
-    top:290px;
+    top:100px;
     left:230px;
     color:#008080;
     text-decoration:none
@@ -1004,7 +1004,7 @@ body {
     position:absolute;
     font-size:17px;
     font-family:"PT Sans", Calibri, Tahoma, sans-serif;
-    top:330px;
+    top:290px;
     left:230px;
     color:#008080;
     text-decoration:none
@@ -1019,7 +1019,7 @@ body {
     position:absolute;
     font-size:17px;
     font-family:"PT Sans", Calibri, Tahoma, sans-serif;
-    top:370px;
+    top:330px;
     left:230px;
     color:#008080;
     text-decoration:none
@@ -1034,7 +1034,7 @@ body {
     position:absolute;
     font-size:17px;
     font-family:"PT Sans", Calibri, Tahoma, sans-serif;
-    top:410px;
+    top:370px;
     left:230px;
     color:#008080;
     text-decoration:none
@@ -1943,7 +1943,7 @@ p{
     font-size:15px;
     font-weight:550;
     font-family: "PT Sans", Calibri, Tahoma, sans-serif;
-    top:1160px;
+    top:1170px;
     left:460px;
     text-decoration:none;
     color:black;
@@ -1992,7 +1992,7 @@ p{
     font-size:15px;
     font-weight:550;
     font-family: "PT Sans", Calibri, Tahoma, sans-serif;
-    top:1160px;
+    top:1170px;
     left:680px;
     text-decoration:none;
     color:black;
@@ -2023,7 +2023,7 @@ p{
     }
 .antifog{
     position:absolute;
-    top:1160px;
+    top:1170px;
     left:900px;
     font-size:15px;
     font-weight:550;
@@ -2046,6 +2046,99 @@ p{
     font-weight:500;
     font-family: "PT Sans", Calibri, Tahoma, sans-serif;
 
+    }
+.tea-pic{
+    position:absolute;
+    top:1000px;
+    left:1110px;
+    width:140px;
+    height:auto;
+    }
+
+.tea-tx{
+    position:absolute;
+    top:1170px;
+    left:1100px;
+    font-size:15px;
+    font-weight:550;
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+    line-height:0;
+    color:black;
+    }
+
+.tea-tx:hover {
+    color:#e68a00;
+    text-decoration:underline;
+    transition:0.5s;
+    }
+
+.UAH393{
+    position:absolute;
+    font-size:25px;
+    font-weight:500;
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+    top:1230px;
+    left:1100px;
+    color:red;
+    }
+.sec-disc{
+    position:absolute;
+    font-size:17px;
+    font-weight:500px;
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+    color:grey;
+    opacity:0.5;
+    top:1220px;
+    left:1100px;
+    text-decoration:line-through;
+    line-width:;
+    }
+
+.wind-pic{
+    position:absolute;
+    top:1000px;
+    left:1310px;
+    width:130px;
+    height:auto;
+    }
+
+.wind-tx{
+    position:absolute;
+    top:1170px;
+    left:1290px;
+    font-size:15px;
+    font-weight:550;
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+    line-height:0;
+    color:black;
+    }
+
+.wind-tx:hover {
+    color:#e68a00;
+    text-decoration:underline;
+    transition:0.5s;
+    }
+
+.UAH120{
+    position:absolute;
+    font-size:25px;
+    font-weight:500;
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+    top:1230px;
+    left:1290px;
+    color:red;
+    }
+.third-disc{
+    position:absolute;
+    font-size:17px;
+    font-weight:500px;
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+    color:grey;
+    opacity:0.5;
+    top:1220px;
+    left:1290px;
+    text-decoration:line-through;
+    line-width:;
     }
 
 
